@@ -1,0 +1,8 @@
+[
+  {
+    "repo" : "komik-1",
+    "tittle" : "Judul Komik 1",
+    "author" : "Ryan",
+    "thumbnail" : "https://cdn.jsdelivr.net/gh/AstraviaComic/komik-1@main/thumbnail.webp"
+  }
+]
