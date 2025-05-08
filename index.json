@@ -4,5 +4,11 @@
     "title": "Komik-01",
     "author": "Miy",
     "thumbnail": "https://cdn.jsdelivr.net/gh/AstraviaComic/Komik01@main/thumbnail.webp"
+  },
+  {
+    "repo": "komik-legenda-9541",
+    "title": "legenda",
+    "author": "Riyan",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AstraviaComic/komik-legenda-9541@main/thumbnail.webp"
   }
 ]
