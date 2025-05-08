@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "repo": "Komik01",
+    "title": "Komik-01",
+    "author": "Miy",
+    "thumbnail": "https://cdn.jsdelivr.net/gh/AstraviaComic/Komik01@main/thumbnail.webp"
+  }
+]
