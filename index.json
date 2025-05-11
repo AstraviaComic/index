@@ -4,5 +4,12 @@
     "title": "legenda",
     "author": "Riyan",
     "thumbnail": "https://cdn.jsdelivr.net/gh/AstraviaComic/komik-legenda-9541@main/thumbnail.webp"
+  },
+  {
+    "repo": "komik-naruto",
+    "title": "Komik Naruto ",
+    "author": "Ryan",
+    "thumbnail": "https://raw.githubusercontent.com/AstraviaComic/komik-naruto/main/thumbnail.webp",
+    "last_updated": "2025-05-11T14:14:54.924Z"
   }
 ]
